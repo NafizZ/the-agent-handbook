@@ -13,7 +13,6 @@ Data (JSON/API) → UI Generator → Dynamic UI
 - **Dynamic UI** renders automatically  
 
 ---
-
 ## 🧩 Example
 
 ### 🔹 Input (Data)
